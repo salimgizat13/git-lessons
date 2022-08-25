@@ -1,3 +1,7 @@
-# Default ignored files
+.idea/misc.xml
+.idea/modules.xml
+.idea/dbnavigator.xml
+.idea/vcs.xml
+out/production/git-lessons/HelloWorld.class
 /shelf/
 /workspace.xml
